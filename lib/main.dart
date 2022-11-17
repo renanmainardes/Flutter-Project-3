@@ -66,7 +66,7 @@ class _HomeState extends State<Home> {
         appBar: AppBar(
           title:
               Text("Lista de tarefas", style: TextStyle(color: Colors.white)),
-          backgroundColor: Colors.red[200],
+          backgroundColor: Colors.black54,
           centerTitle: true,
         ),
         body: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
